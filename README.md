@@ -1,9 +1,10 @@
+# Hi, here is RayCat 👋
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=gabriel0952&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true">
 
-# Hi, here is RayCat 👋
 - 🔭  I’m currently working on CHTTL, is an Android Develpoer.
-- 🌱  I’m currently learning "How to build a better Mobile Application"
-
+- 🌱  I’m currently learning "How to build a better Mobile Application".
+- 🛩  I love the Taiwan and Japan, love to photograph.
 ## 🎓 Education
 - National Cheng Kung University (NCKU), M.S. in Computer Science and Information Engineering
   - AUG. 2017 - AUG. 2019
