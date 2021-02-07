@@ -1,18 +1,15 @@
-### Hi there 👋
+# Hi, here is RayCat 👋
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=gabriel0952&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true">
 
-<!--
-**gabriel0952/gabriel0952** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭  I’m currently working on CHTTL, is an Android Develpoer.
+- 🌱  I’m currently learning "How to build a better Mobile Application"
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+- National Cheng Kung University (NCKU), M.S. in Computer Science and Information Engineering
+  - AUG. 2017 - AUG. 2019
+  - Thesis: CM Huang, PJ Chen "Mobile Edge Computing-based POIs Downloading＆Sharing using the k-Connection-Limited and n-Hop (kCL-nH) Tree Topology of Mobile Social Network in Proximity"
+  
+## 📫 Contact
+- Blog: [Ray's Note](https://gabriel0952.github.io/blog/)
+- GitHub: [gabriel/raycat](https://github.com/gabriel0952)
