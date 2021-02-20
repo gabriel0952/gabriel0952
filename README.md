@@ -12,4 +12,4 @@
   
 ## 📫 Contact
 - Blog: [Ray's Note](https://gabriel0952.github.io/blog/)
-- GitHub: [gabriel/raycat](https://github.com/gabriel0952)
+- GitHub: [gabriel/raycat](https://gabriel0952.github.io/)
