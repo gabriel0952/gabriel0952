@@ -11,5 +11,5 @@
   - Thesis: CM Huang, PJ Chen "Mobile Edge Computing-based POIs Downloading＆Sharing using the k-Connection-Limited and n-Hop (kCL-nH) Tree Topology of Mobile Social Network in Proximity"
   
 ## 📫 Contact
-- Blog: [Ray's Note](https://gabriel0952.github.io/)
-- GitHub: [gabriel/raycat](https://gabriel0952.github.io/)
+- Blog: [Ray's Note](https://gabriel0952.github.io/gabriel.github.io/)
+- GitHub: [gabriel/raycat](https://github.com/gabriel0952)
